@@ -1,1 +1,1 @@
-Nuevo
+Esto es una web sobre pokemon.
